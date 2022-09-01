@@ -6,14 +6,15 @@
 
 <!---->
 
-<h3>Where to find me</h3>
+<h1>Where to find me</h1>
+
 <p><a href="https://www.instagram.com/say_zzun" target="_blank"><img alt="Github" src="https://camo.githubusercontent.com/a134d2aecbcbff28ac485cd697bc5fa7f26726cfc6f70142be437453879961a0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d4534343035463f7374796c653d726f756e642d737175617265266c6f676f3d496e7374616772616d266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e696e7374616772616d2e636f6d2f6879756e6d696e5f303331372f" /></a>
 <a href="https://mail.google.com/mail/u/0/?fs=1&to=sangjun9709@gmail.com&tf=cm" target="_blank"><img alt="Gmail" src="https://camo.githubusercontent.com/efd394fdca6d1d60f1df7ad744e1d83e70ba0ef079a4fce3fe2e724b8b61b4f6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4541343333353f7374796c653d726f756e642d737175617265266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f6d61696c2e676f6f676c652e636f6d2f6d61696c2f3f766965773d636d2666733d3126746f3d63686f69686d3939303340676d61696c2e636f6d" />
 </p>
 
 <!---->
 
-<h3>Carrer</h3>
+<h1>Career</h1>
 <table>
   <thead align="center">
     <tr border: none;>
@@ -32,7 +33,7 @@
       <td>상명대학교</td>
       <td>🎓</td>
     </tr>
-	  <tr>
+    <tr>
       <td>학생회</td>
       <td>2016.03 ~ 2016.08</td>
       <td>미디어소프트웨어학과</td>
@@ -40,7 +41,7 @@
       <td>🏫</td>
     </tr>
     <tr>
-      <td>동아리</td>
+      <td>흑인음악동아리</td>
       <td>2016.03 ~ 2017.02</td>
       <td>Groovin187</td>
       <td>상명대학교</td>
@@ -52,13 +53,6 @@
       <td>15사단998대대</td>
       <td>국방부</td>
       <td>🎖️</td>
-    </tr>
-    <tr>
-      <td>교육봉사</td>
-      <td>2019.01 ~ </td>
-      <td>작공</td>
-      <td>청소년도서관</td>
-      <td>👨‍🏫</td>
     </tr>
     <tr>
       <td>교육봉사</td>
@@ -84,9 +78,44 @@
     <tr>
       <td>동아리</td>
       <td>2020.03 ~2021.07</td>
-      <td>파티기획</td>
       <td>OOPS</td>
-      <td>🧑‍💼</td>
+      <td>TEAM.OOPS</td>
+      <td>🎉</td>
+    </tr>
+    <tr>
+      <td>홍보대사</td>
+      <td>2021.03 ~2022.02</td>
+      <td>솔찬18기</td>
+      <td>상명대학교</td>
+      <td>🔥</td>
+    </tr>
+    <tr>
+      <td>청소년교육지원사업</td>
+      <td>2021.03 ~2022.02</td>
+      <td>멘토</td>
+      <td>한국장학재단</td>
+      <td>👨‍🏫</td>
+    </tr>
+    <tr>
+      <td>창업동아리</td>
+      <td>2021.03 ~ 2023.02</td>
+      <td>대표</td>
+      <td>나와산책</td>
+      <td>🕴</td>
+    </tr>
+    <tr>
+      <td>홍보봉사단</td>
+      <td>2022.03 ~ 2022.11</td>
+      <td>SNS홍보팀장</td>
+      <td>SW중심대학사업단</td>
+      <td>😊</td>
+    </tr>
+    <tr>
+      <td>소중한멤버쉽</td>
+      <td>2022.05 ~ 2022.11</td>
+      <td>기획&프론트앤드개발자</td>
+      <td>SW중심대학사업단</td>
+      <td>👨‍💻</td>
     </tr>
     
   </tbody>
