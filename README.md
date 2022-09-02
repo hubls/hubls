@@ -14,7 +14,7 @@
 
 <!---->
 
-<h1>Career</h1>
+<h1>📈Career</h1>
 <table>
   <thead align="center">
     <tr border: none;>
@@ -116,11 +116,84 @@
       <td>기획&프론트앤드개발자</td>
       <td>SW중심대학사업단</td>
       <td>👨‍💻</td>
-    </tr>
-    
+    </tr>    
   </tbody>
 </table>
 
+
+
+<!---->
+
+<h1>🏆Prize</h1>
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Type</b></td>
+      <td><b>📅 Date</b></td>
+      <td><b>📛 Name</b></td>
+      <td><b>💵 Organization</b></td>
+    </tr>
+  </thead>
+  <tbody align="center">
+    <tr>
+      <td>프레젠테이션대회</td>
+      <td>2019.11</td>
+      <td>최우수상</td>
+      <td>상명대학교</td>
+    </tr>
+    <tr>
+      <td>창업경진대회</td>
+      <td>2019.12</td>
+      <td>최우수상</td>
+      <td>상명대학교</td>
+    </tr>
+    <tr>
+      <td>창업아이디어경진대회</td>
+      <td>2021.6</td>
+      <td>장려상</td>
+      <td>SW중심대학사업단</td>
+    </tr>
+    <tr>
+      <td>창업경진대회</td>
+      <td>2021.12</td>
+      <td>우수상</td>
+      <td>상명대학교</td>
+    </tr>
+  </tbody>
+</table>
+
+
+<h1>💻Project</h1>
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>Project</b></td>
+      <td><b>Contents</b></td>
+      <td><b>Subject</b></td>
+      <td><b>Date</b></td>
+    </tr>
+  </thead>
+  <tbody align="center">
+    <tr>
+      <td><a href="https://github.com/nawasancheck"><b>Nawasancheck</b></a></td>
+      <td>졸업프로젝트</td>
+      <td>산책대화플랫폼</td>
+      <td>2022.01~ </td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/hyunmin0317/SOM-FE"><b>SOM</b></a></td>
+      <td>SOM프로젝트</td>
+      <td>서로알기 윷놀이 게임</td>
+      <td>2022.04.22~</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/hyunmin0317/SOM-FE"><b>1Day1Commit</b></a></td>
+      <td>알고리즘공부</td>
+      <td>Python</td>
+      <td>2022.09.22~</td>
+    </tr>
+  </tbody>
+</table>
 
 
 
