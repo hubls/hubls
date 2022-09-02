@@ -188,7 +188,7 @@
       <td>2022.04.22~</td>
     </tr>
     <tr>
-      <td><a href=""><b>1Day1Commit</b></a></td>
+      <td><a href="https://github.com/hubls/1Day1Commit"><b>1Day1Commit</b></a></td>
       <td>알고리즘공부</td>
       <td>Python</td>
       <td>2022.09.22~</td>
