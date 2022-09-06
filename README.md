@@ -182,7 +182,7 @@
       <td>2022.01~ </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/hyunmin0317/SOM-FE"><b>SOM</b></a></td>
+      <td><a href="https://github.com/SOM-FE"><b>SOM</b></a></td>
       <td>SOM프로젝트</td>
       <td>서로알기 윷놀이 게임</td>
       <td>2022.04.22~</td>
