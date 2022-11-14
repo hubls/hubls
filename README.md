@@ -193,6 +193,12 @@
       <td>Python</td>
       <td>2022.09.22~</td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/hubls/Upbit_automatic-trading"><b>Upbit_Automatic_Trading</b></a></td>
+      <td>코인자동매매프로그램</td>
+      <td>Python</td>
+      <td>2022.11.01~</td>
+    </tr>
   </tbody>
 </table>
 
