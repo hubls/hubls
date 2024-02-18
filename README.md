@@ -204,7 +204,37 @@
       <td><a href="https://github.com/hubls/Upbit_automatic-trading"><b>Upbit_Automatic_Trading</b></a></td>
       <td>코인자동매매프로그램</td>
       <td>Python</td>
-      <td>2022.11.01~</td>
+      <td>2022.11.01~2022.12.14</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/hubls/java-baseball-6/tree/hubls"><b>숫자야구(미니게임)</b></a></td>
+      <td>우아한테크코스 1주차 과제</td>
+      <td>Java</td>
+      <td>2023.10.19~2023.10.25</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/hubls/java-racingcar-6/tree/hubls"><b>자동차경주(미니게임)</b></a></td>
+      <td>우아한테크코스 2주차 과제</td>
+      <td>Java</td>
+      <td>2023.10.26~2023.11.1</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/hubls/java-lotto-6/tree/hubls"><b>로또(미니게임)</b></a></td>
+      <td>우아한테크코스 3주차 과제</td>
+      <td>Java</td>
+      <td>2023.11.2~2023.11.8</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/hubls/java-christmas-6-hubls"><b>크리스마스 프로모션</b></a></td>
+      <td>우아한테크코스 4주차 과제</td>
+      <td>Java</td>
+      <td>2023.11.9~2023.11.15</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/hubls/java-oncall-6-hubls"><b>개발자 비상근무</b></a></td>
+      <td>우아한테크코스 최종코테</td>
+      <td>Java</td>
+      <td>2023.12.16</td>
     </tr>
   </tbody>
 </table>
