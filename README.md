@@ -56,43 +56,43 @@
       <td>🎖️</td>
     </tr>
     <tr>
-      <td>교육봉사</td>
-      <td>2019.01 ~ </td>
+      <td><a href="https://n.news.naver.com/article/028/0002614853?type=journalists">교육봉사</a></td>
+      <td>2019.01 ~ 2023.04 </td>
       <td>작공</td>
       <td>청소년도서관</td>
       <td>👨‍🏫</td>
     </tr>
     <tr>
       <td>댄스동아리</td>
-      <td>2019.01 ~2020.02 </td>
+      <td>2019.01 ~ 2020.02 </td>
       <td>토네이도</td>
       <td>상명대학교</td>
       <td>🕺</td>
     </tr>
     <tr>
       <td>회사</td>
-      <td>2020.03 ~2020.09 </td>
+      <td>2020.03 ~ 2020.09 </td>
       <td>대외협력</td>
       <td>(주)아시아공정무역네트워크</td>
       <td>🧑‍💼</td>
     </tr>
     <tr>
       <td>동아리</td>
-      <td>2020.03 ~2021.07</td>
+      <td>2020.03 ~ 2021.07</td>
       <td>OOPS</td>
       <td>TEAM.OOPS</td>
       <td>🎉</td>
     </tr>
     <tr>
       <td>홍보대사</td>
-      <td>2021.03 ~2022.02</td>
+      <td>2021.03 ~ 2022.02</td>
       <td>솔찬18기</td>
       <td>상명대학교</td>
       <td>🔥</td>
     </tr>
     <tr>
       <td>청소년교육지원사업</td>
-      <td>2021.03 ~2022.02</td>
+      <td>2021.03 ~ 2022.02</td>
       <td>멘토</td>
       <td>한국장학재단</td>
       <td>👨‍🏫</td>
@@ -132,7 +132,7 @@
 
 <!---->
 
-<h1>🏆Prize</h1>
+<h1>🏆Prize & 🖥️Certificate</h1>
 <table>
   <thead align="center">
     <tr border: none;>
@@ -167,6 +167,30 @@
       <td>우수상</td>
       <td>상명대학교</td>
     </tr>
+    <tr>
+      <td>TOPCIT</td>
+      <td>2022.10</td>
+      <td>Level3</td>
+      <td>정보통신기획평가원</td>
+    </tr>
+    <tr>
+      <td>정보처리기사</td>
+      <td>2022.11</td>
+      <td>취득</td>
+      <td>한국산업인력공단</td>
+    </tr>
+    <tr>
+      <td>SQL 개발자(SQLD)</td>
+      <td>2022.12</td>
+      <td>취득</td>
+      <td>한국데이터산업진흥원</td>
+    </tr>
+    <tr>
+      <td>데이터분석 준전문가(ADsP)</td>
+      <td>2023.03</td>
+      <td>취득</td>
+      <td>한국데이터산업진흥원</td>
+    </tr>
   </tbody>
 </table>
 
@@ -186,25 +210,31 @@
       <td><a href="https://github.com/nawasancheck"><b>Nawasancheck</b></a></td>
       <td>졸업프로젝트</td>
       <td>산책대화플랫폼</td>
-      <td>2022.01~ </td>
+      <td>2022.01~2022.10</td>
     </tr>
     <tr>
       <td><a href="https://github.com/SOM-FE"><b>SOM</b></a></td>
       <td>SOM프로젝트</td>
       <td>서로알기 윷놀이 게임</td>
-      <td>2022.04.22~</td>
+      <td>2022.04.22~2023.09.05</td>
     </tr>
     <tr>
       <td><a href="https://github.com/hubls/1Day1Commit"><b>1Day1Commit</b></a></td>
       <td>알고리즘공부</td>
       <td>Python</td>
-      <td>2022.09.22~</td>
+      <td>2022.09.22~2023.02.05</td>
     </tr>
     <tr>
       <td><a href="https://github.com/hubls/Upbit_automatic-trading"><b>Upbit_Automatic_Trading</b></a></td>
       <td>코인자동매매프로그램</td>
       <td>Python</td>
       <td>2022.11.01~2022.12.14</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/hubls/Upbit_automatic-trading"><b>Upbit_Automatic_Trading</b></a></td>
+      <td>알고리즘 코테 스터디</td>
+      <td>Python</td>
+      <td>2023.08.13~2023.10.08</td>
     </tr>
     <tr>
       <td><a href="https://github.com/hubls/java-baseball-6/tree/hubls"><b>숫자야구(미니게임)</b></a></td>
@@ -235,6 +265,12 @@
       <td>우아한테크코스 최종코테</td>
       <td>Java</td>
       <td>2023.12.16</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/hubls/ssamo"><b>싸모</b></a></td>
+      <td>싸이트모음 웹사이트(http://ssamo.store)</td>
+      <td>Node.js + Vue.js</td>
+      <td>2023.01.05~</td>
     </tr>
   </tbody>
 </table>
