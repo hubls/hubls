@@ -138,7 +138,7 @@
     <tr border: none;>
       <td><b>🎁 Type</b></td>
       <td><b>📅 Date</b></td>
-      <td><b>📛 Name</b></td>
+      <td><b>📛 Status</b></td>
       <td><b>💵 Organization</b></td>
     </tr>
   </thead>
@@ -270,7 +270,13 @@
       <td><a href="https://github.com/hubls/ssamo"><b>싸모</b></a></td>
       <td>싸이트모음 웹사이트(http://ssamo.store)</td>
       <td>Node.js + Vue.js</td>
-      <td>2023.01.05~</td>
+      <td>2024.01.05~2024.01.27</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/hubls/short-url"><b>단축URL</b></a></td>
+      <td>사이트단축 웹사이트</td>
+      <td>Spring</td>
+      <td>2024.04.13~2024.04.30</td>
     </tr>
   </tbody>
 </table>
