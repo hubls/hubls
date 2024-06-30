@@ -231,7 +231,7 @@
       <td>2022.11.01~2022.12.14</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/hubls/Upbit_automatic-trading"><b>Upbit_Automatic_Trading</b></a></td>
+      <td><a href="https://github.com/ycodingstudy/codingstudy/tree/sangjun"><b>코테스터디</b></a></td>
       <td>알고리즘 코테 스터디</td>
       <td>Python</td>
       <td>2023.08.13~2023.10.08</td>
